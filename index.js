@@ -20,3 +20,11 @@ mouseClicked = function() {
     text("Una creatura è nata", 10, 100);
     image(getImage("creatures/BabyWinston"), 80, 150);
 };
+
+/** La vita della creatura:
+
+**/
+
+CREATE TABLE creatura (id INTEGER PRIMARY KEY, name TEXT, age INTEGER );
+
+INSERT INTO creatura VALUES (1, "Josh", 0);
