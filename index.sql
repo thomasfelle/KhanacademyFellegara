@@ -16,4 +16,3 @@ INSERT INTO LeMieAttività VALUES (5,"Giocare", 120);
 INSERT INTO LeMieAttività VALUES (6,"Fare Sport", 120);
 INSERT INTO LeMieAttività VALUES (7,"Leggere", 30);
 SELECT * FROM LeMieAttività;
-
